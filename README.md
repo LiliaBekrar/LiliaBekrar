@@ -50,14 +50,14 @@ Ce que j’aime, c’est **faciliter la vie des gens grâce au code**, rendre le
 
 | 🌟 Projet | 🧰 Stack | 📌 Description |
 |----------|----------|----------------|
-| [BOOK_YOUR_TA](https://github.com/LiliaBekrar/BOOK_YOUR_TA) | Ruby | Appli console de réservation |
-| [RentACar](https://github.com/LiliaBekrar/RentACar) | Rails | Marketplace de location de voitures |
+| [BOOK_YOUR_TA](https://github.com/LiliaBekrar/BOOK_YOUR_TA) | Rails · PostgreSQL · Devise | Marketplace de Teacher Assistants pour survivre aux journées d’autonomie 😅 |
+| [evaluat3d](https://github.com/LiliaBekrar/evaluat3d) | Rails · PostgreSQL · Devise . Geocoder | Appli d’aide au déménagement : calcule le camion, cartons, personnes, pizzas & bières 🚛🍕🍺 |
 | [Axel Atelier](https://github.com/LiliaBekrar/axel_atelier) | Rails (en cours) | Site e-commerce pour objets personnalisés, fait avec amour 💘 |
 | [VoteReminder](https://github.com/LiliaBekrar/VoteReminder) | Python · SQLAlchemy · Discord API | Bot Discord de rappels interactifs, conçu pour aider à s’organiser |
 | [exo_menu](https://github.com/LiliaBekrar/exo_menu) | HTML/CSS | Menu responsive mobile-first |
 | [landing_medium_article](https://github.com/LiliaBekrar/landing_medium_article) | HTML/CSS | Page inspirée de Medium |
 | Sites WordPress | PHP/WordPress | Création de thèmes & sites 100% maison 🏡 |
-| Démarches Publik | YAML + config | Dématérialisation pour collectivités, simplification de la vie publique |
+| Démarches Publik | API . Django . Low code | Dématérialisation pour collectivités, simplification de la vie publique |
 
 ---
 
